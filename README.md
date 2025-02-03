@@ -52,7 +52,11 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-Kavinda&theme=react-dark&hide_border=true&area=true)
 
 
+## 📊 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 Thanks for stopping by, and happy coding! 🚀
 
