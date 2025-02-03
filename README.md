@@ -54,9 +54,9 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimesh-kavinda&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimesh-kavinda&layout=compact&theme=tokyonight)
 
 Thanks for stopping by, and happy coding! 🚀
 
