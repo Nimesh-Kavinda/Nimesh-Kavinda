@@ -51,14 +51,8 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 <!--My Github Stats (Graph)-->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-Kavinda&theme=react-dark&hide_border=true&area=true)
 
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimesh-kavinda&theme=tokyonight&hide_border=false)
-
-![GitHub Metrics](https://metrics.lecoq.io/nimesh-kavinda)
-
-Thanks for stopping by, and happy coding! 🚀
+✨ _"Code is like humor. When you have to explain it, it’s bad." - Cory House_
+ 😃 Thanks for stopping by, and happy coding! 🚀
 
 
 <!--
