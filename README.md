@@ -10,8 +10,9 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 - Modern Web Frameworks
 
 📫 How to reach me...
-- [LinkedIn](https://www.linkedin.com/in/nimesh-kavinda/) - Connect with me on LinkedIn.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimesh-kavinda/) - Connect with me on LinkedIn.
 - Email: nimeshkavindakarunasinghe@gmail.com - Feel free to reach out to me via email.
+
 
 
 ---
