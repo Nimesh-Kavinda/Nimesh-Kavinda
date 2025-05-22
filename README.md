@@ -43,6 +43,7 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 <p align="center"><img src="https://profile-counter.glitch.me/{Nimesh-Kavinda}/count.svg" alt="visitor badge"/></p>
 <p align="center"><a href="https://github.com/Nimesh-Kavinda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Kavinda&theme=tokyonight" /></a></p>
 <p align="center" ><a href="https://github.com/Nimesh-Kavinda"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nimesh-Kavinda&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
+<p align="center" ><a href="https://github.com/Nimesh-Kavinda"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nimesh-Kavinda&theme=tokyonight" alt="Dave's github stats"/</a></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Nimesh-Kavinda&theme=tokyonight"></p>
 
 <br/>
